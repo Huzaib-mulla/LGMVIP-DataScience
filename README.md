@@ -16,13 +16,7 @@ Inversion can be used to enhance details.\
 Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image.This can be done by dividing the grayscale image by the inverted blurry image.\
 Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
 
-## Task 3 - Exploratory Data Analysis on Dataset - Terrorism
-
-As a security/defense analyst, try to find out the hot zone of terrorism.
-
-Dataset: [DATA LINK](https://bit.ly/2TK5Xn5)
-
-## Task 4 - Prediction using Decision Tree Algorithm
+## Task 3 - Prediction using Decision Tree Algorithm
 
 Create the Decision Tree classifier and visualize it graphically.
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
